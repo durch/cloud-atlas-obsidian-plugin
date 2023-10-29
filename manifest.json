@@ -1,0 +1,11 @@
+{
+	"id": "cloud-atlas-plugin",
+	"name": "Cloud Atlas Plugin",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Plugin for Cloud Atlas service, no GPT responses will get saved to your Obsidian vault",
+	"author": "CloudAtlas",
+	"authorUrl": "https://cloud-atlas.adder.black",
+	"fundingUrl": "https://cloud-atlas.adder.black",
+	"isDesktopOnly": false
+}
